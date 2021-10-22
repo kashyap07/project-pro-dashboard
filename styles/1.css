@@ -1,0 +1,23 @@
+.block-row {
+  display: flex;
+}
+
+.block {
+  height: 100px;
+  width: 100px;
+  display: block;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+}
+
+.current-block {
+  background-color: pink;
+}
+
+.matrix-nav-button {
+  border: 1px solid #ccc;
+  width: 50px;
+}
