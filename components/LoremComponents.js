@@ -6,13 +6,7 @@ const Projects = () => {
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in
         condimentum ligula, ut mollis nisl. Aenean et dolor varius, ultricies
         erat eget, pharetra dui. Ut et vulputate purus, quis tempor lorem.
-        Quisque et ligula ultrices, gravida purus vel, vulputate libero. Integer
-        enim sapien, rhoncus eget lobortis vitae, pharetra a turpis. Donec
-        pulvinar quam in justo varius vulputate. Suspendisse feugiat molestie
-        enim in imperdiet. Quisque faucibus urna at felis pellentesque sodales.
-        Sed ipsum diam, mollis at posuere ut, interdum eget tellus. Donec
-        consequat commodo libero eu viverra. Sed ligula libero, tempus sed
-        fringilla id, semper at enim. In malesuada viverra tempus.
+        Quisque et ligula ultrices, gravida purus vel, vulputate libero.
       </p>
     </div>
   );
