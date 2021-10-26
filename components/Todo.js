@@ -28,7 +28,9 @@ export default function Todo() {
   const newItem = useRef(null);
 
   // add task to list
-  const handleAddItem = (e) => {
+  const handleAddItem = () => {
+    if (!newItem.current.value) return;
+
     setList([
       ...list,
       {
